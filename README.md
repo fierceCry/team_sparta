@@ -17,4 +17,4 @@
 ![프로젝트 구현 이미지](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F5ruYy%2FbtsGQl36pns%2FqC4LdiD7pArO4NLZPUwfo1%2Fimg.png)
 
 ## 참고
-- [Firebase](https://firebase.google.com/?hl=ko)
+- [Firebase](https://firebase.google.com/?hl=ko) Firebase API
